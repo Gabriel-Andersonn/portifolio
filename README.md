@@ -1,2 +1,5 @@
-# portifolio
-Portifolio Gabriel Anderson
+# Portifolio Gabriel
+Portifolio do desenvolvedor
+
+## Tarefas
+O controle das tarefas desse projeto sera realizado no GitHub.
